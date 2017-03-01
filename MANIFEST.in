@@ -1,1 +1,1 @@
-include training_sentences.json
+include alfred_weather/training_sentences.json
